@@ -94,7 +94,7 @@ video-streaming-app/
 
 ## 🤝 Contributing
 
-We welcome contributions from all team members! Please read [CONTRIBUTION.md](./CONTRIBUTION.md) for guidelines on:
+We welcome contributions from all team member! Please read [CONTRIBUTION.md](./CONTRIBUTION.md) for guidelines on:
 - Setting up your development environment
 - Code standards and best practices
 - Git workflow and branch naming conventions
